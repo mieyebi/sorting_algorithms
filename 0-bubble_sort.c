@@ -2,8 +2,8 @@
 
 /**
 * bubble_sort - sorts the algorithm using a bubble format
-* array: a list of random elements
-* size: size of the array
+* @array: a list of random elements
+* @size: size of the array
 */
 
 void bubble_sort(int *array, size_t size)
